@@ -1,0 +1,1 @@
+In the above code I have used Heart disease prediction dataset to compare the accuracies and find out which models works better in predicting heart disease.I have used supervised ML models namely:Logistic Regression,Naive Bayes Classifier,KNN Classifier,SVM and Random Forest Classifier.
